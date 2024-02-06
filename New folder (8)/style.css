@@ -1,0 +1,25 @@
+body {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url(https://img.freepik.com/premium-vector/technology-background-with-digital-number-timer-concept-countdown_115579-956.jpg?w=900);
+}
+
+.timer-container {
+    text-align: center;
+}
+
+#timer {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: beige;
+}
+
+button {
+    font-size: 1em;
+    margin: 5px;
+    padding: 8px;
+}
